@@ -52,7 +52,3 @@ Output:
 
 Invalid Folder name  
 
-covered topics 
-
-File Operations, Control statements, Exception handling, Strings,  Regular expressions.  
-
